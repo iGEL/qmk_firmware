@@ -1,7 +1,7 @@
 ## iGEL's workman interpretation
 
 This is my ErgoDox interpretation of the
-(Workman layout)[http://www.workmanlayout.com/blog/]. It has a symbol layer
+[Workman layout](http://www.workmanlayout.com/blog/). It has a symbol layer
 with VIM movement buttons (H, J, K, L) and features German umlauts[^1] even
 though it's supposed to be used with US-Qwerty settings. They type RAlt + U and
 then `a` for ä etc.
