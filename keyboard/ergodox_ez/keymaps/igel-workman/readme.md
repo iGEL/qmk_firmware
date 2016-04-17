@@ -14,6 +14,17 @@ your weird keyboard.
 [^1]: Not yet working :'(
 
 ### Changelog
+#### 2016-04-17
+
+* Put `~L3` on the outer positions on the bottom row on both halves (previous
+  Gui).
+* Changed the layout of the three innermost keys on each half. I sometimes
+  accidentally hit `L1` and `L3` switches. `L1`, which I almost never use,
+  is now on the top row and `L3` was removed here altogether, cause I've added
+  the `~L3` and there is already a `L3`. `←` & `→` are now on the bottom row,
+  because I actually intend to use them. `Hyper` moved to the middle, and I
+  filled the free positions with `Meh` & `Esc`.
+
 #### 2016-04-12
 
 I ported my [old layout](https://github.com/iGEL/ergodox-firmware) over to the
