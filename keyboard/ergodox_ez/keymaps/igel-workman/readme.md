@@ -14,6 +14,12 @@ your weird keyboard.
 [^1]: Not yet working :'(
 
 ### Changelog
+#### 2016-05-03
+
+* Put a numpad on the right half of `L3`.
+* Put arrow keys on the right thumb cluster on `L3`
+* Put mouse keys on the left thumb cluster on `L3`
+
 #### 2016-04-17
 
 * Put `~L3` on the outer positions on the bottom row on both halves (previous
