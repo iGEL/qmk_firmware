@@ -14,6 +14,10 @@ your weird keyboard.
 [^1]: Not yet working :'(
 
 ### Changelog
+#### 2016-06-28
+
+* Switch `UP` & `DOWN` to match the order of `J` & `K` (VIM movements)
+
 #### 2016-05-03
 
 * Put a numpad on the right half of `L3`.
