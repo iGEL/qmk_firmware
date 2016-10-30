@@ -14,6 +14,10 @@ your weird keyboard.
 [^1]: Not yet working :'(
 
 ### Changelog
+#### 2016-10-30
+
+* Removed `ESC` from the upper left key to force me to learn better options.
+
 #### 2016-06-28
 
 * Switch `UP` & `DOWN` to match the order of `J` & `K` (VIM movements)
