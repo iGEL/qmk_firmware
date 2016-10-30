@@ -17,6 +17,7 @@ your weird keyboard.
 #### 2016-10-30
 
 * Removed `ESC` from the upper left key to force me to learn better options.
+* Rebased on upstream master
 
 #### 2016-06-28
 
